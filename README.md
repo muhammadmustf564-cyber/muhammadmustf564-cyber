@@ -1,83 +1,52 @@
-# 👋 Welcome to My Learning Repository:
+👋 Welcome to My Learning Repository
 
-This repository documents my journey as a **BSCS student** building a strong foundation in **Networking and Cybersecurity**.
+I'm a BSCS student building my foundation in Networking and Cybersecurity through hands-on learning, labs, and projects.
 
+🚀 About This Repository
 
+This repository documents my learning journey, including practice work, notes, projects, and Cisco Packet Tracer labs.
 
-## 🚀 About This Repository:
+🧠 Learning Progress
 
-This repo contains my practice work, notes, and projects as I progress step-by-step toward becoming a **Cybersecurity Professional**.
+✅ Python — Foundation Completed
 
+- Python Basics
+- Data Structures
+- Loops & Functions
+- File Handling
+- Mini Projects
 
+✅ Networking — Strong Foundation
 
-## 🧠 Learning Progress:
+- OSI & TCP/IP Models
+- IPv4 & IPv6
+- Subnetting
+- Routing & Switching
+- DHCP, DNS & FTP
+- VLANs & Inter-VLAN Routing
+- STP, EtherChannel & Port Security
+- ACL & NAT
+- Wireless & Network Security Basics
 
-### ✅ Python Programming (Completed):
+🔐 Next Focus — Cybersecurity
 
-* Variables, Data Types, Type Casting
-* Strings & Boolean Logic
-* Lists, Tuples, Sets, Dictionaries
-* Operators & Basic Problem Solving
+- CompTIA Security+
+- Linux
+- Network Security
+- Ethical Hacking
+- SOC / Blue Team
+- Security Tools & Hands-on Labs
 
+🛠️ Skills
 
+- Python
+- Computer Networking
+- Cisco Packet Tracer
+- Git & GitHub
+- Problem Solving
 
-### 🌐 Computer Networking (In Progress / Strong Foundation):
+🎯 Goal
 
-I have studied and practiced a wide range of networking concepts including:
+To build strong practical skills and grow into a Cybersecurity Professional.
 
-* Network Fundamentals & Architecture
-* OSI Model & TCP/IP Model
-* IP Addressing (IPv4)
-* Subnetting & Network Calculations
-* Network Topologies (Bus, Star, Ring, Mesh, Hybrid)
-* Transmission Media & Signal Types
-* Data Communication Concepts
-* Network Devices (Router, Switch, Hub)
-* Switching & Basic Routing Concepts
-* DHCP & IP Configuration
-* Network Security Basics
-* Transmission Impairments (Noise, Attenuation, Distortion)
-
-
-
-### 🔐 Upcoming Focus (Cybersecurity):
-
-* Ethical Hacking
-* Penetration Testing
-* Network Security
-* Vulnerability Assessment
-* Security Tools & Practical Labs
-
-
-
-## 🛠️ Skills Practiced:
-
-* Python Programming
-* Problem Solving
-* Computer Networking
-* Git & GitHub
-
-
-
-## 📚 Purpose of This Repository:
-
-* Track my learning journey
-* Upload practice tasks and notes
-* Build strong fundamentals
-* Prepare for advanced Cybersecurity learning
-
-
-## 🎯 Goal:
-
-To become a highly skilled **Cybersecurity Professional** capable of protecting systems, analyzing threats, and securing networks.
-
-
-
-## ⚡ Note:
-
-This repository will be updated regularly as I continue learning and improving my skills.
-
-
-
-⭐ *Follow my journey as I grow in Cybersecurity!*
-
+⭐ Learning by doing, one step at a time.
