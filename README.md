@@ -1,10 +1,15 @@
-👋 Welcome to My Learning Repository
+👋 Welcome to My Learning Journey
 
-I'm a BSCS student building my foundation in Networking and Cybersecurity through hands-on learning, labs, and projects.
+I'm a BSCS student building my foundation in Networking and Cybersecurity through structured learning, practical labs, projects, and continuous practice.
 
 🚀 About This Repository
 
-This repository documents my learning journey, including practice work, notes, projects, and Cisco Packet Tracer labs.
+This repository documents my technical learning journey, including:
+
+- 🧪 Practice work
+- 📚 Notes & documentation
+- 🐍 Python projects
+- 🌐 Cisco Packet Tracer labs
 
 🧠 Learning Progress
 
@@ -16,7 +21,7 @@ This repository documents my learning journey, including practice work, notes, p
 - File Handling
 - Mini Projects
 
-✅ Networking — Strong Foundation
+🌐 Networking — Strong Foundation
 
 - OSI & TCP/IP Models
 - IPv4 & IPv6
@@ -24,18 +29,29 @@ This repository documents my learning journey, including practice work, notes, p
 - Routing & Switching
 - DHCP, DNS & FTP
 - VLANs & Inter-VLAN Routing
-- STP, EtherChannel & Port Security
+- STP & EtherChannel
+- Port Security
 - ACL & NAT
-- Wireless & Network Security Basics
+- Wireless Networking
+- Network Security Fundamentals
 
-🔐 Next Focus — Cybersecurity
+🔐 Cybersecurity — Currently Learning
 
-- CompTIA Security+
-- Linux
-- Network Security
-- Ethical Hacking
-- SOC / Blue Team
-- Security Tools & Hands-on Labs
+- Security Fundamentals
+- Threats & Vulnerabilities
+- Risk Management
+- Security Controls
+- Cryptography
+- Social Engineering
+- Identity & Access Management
+- Security Architecture
+- Network Security Fundamentals
+
+🎯 Current Roadmap
+
+CCNA → CompTIA Security+ → Linux → SOC / Blue Team
+
+Currently strengthening my networking foundation while building knowledge in cybersecurity and preparing for the next stage of my learning path.
 
 🛠️ Skills
 
@@ -43,10 +59,11 @@ This repository documents my learning journey, including practice work, notes, p
 - Computer Networking
 - Cisco Packet Tracer
 - Git & GitHub
+- Cybersecurity Fundamentals
 - Problem Solving
 
-🎯 Goal
+🚀 Goal
 
-To build strong practical skills and grow into a Cybersecurity Professional.
+To build strong practical skills in Networking and Cybersecurity and grow into a Cybersecurity Professional.
 
-⭐ Learning by doing, one step at a time.
+«⭐ Learning by doing, one step at a time.»
