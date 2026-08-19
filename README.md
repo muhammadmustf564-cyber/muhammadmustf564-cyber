@@ -1,6 +1,6 @@
-👋 Welcome to My Learning Journey
+👋 Building My Foundation in Cybersecurity & Security Engineering
 
-I'm a BSCS student building my foundation in Networking and Cybersecurity through structured learning, practical labs, projects, and continuous practice.
+I'm a BSCS student building a strong foundation in Networking and Cybersecurity through structured learning, hands-on labs, and continuous practice.
 
 🚀 About This Repository
 
