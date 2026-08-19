@@ -51,7 +51,7 @@ This repository documents my technical learning journey, including:
 
 CCNA✅ → CompTIA Security+ → Linux → SOC / Blue Team → Security Engineer
 
-Currently strengthening on CompTIA Security+ and strengthening my cybersecurity foundation through structured learning and hands-on practice.
+Currently focused on CompTIA Security+ while strengthening my cybersecurity foundation through structured learning and hands-on practice.
 
 🛠️ Skills
 
