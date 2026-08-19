@@ -35,7 +35,7 @@ This repository documents my technical learning journey, including:
 - Wireless Networking
 - Network Security Fundamentals
 
-🔐 Cybersecurity — Currently Learning
+🔐 Cybersecurity — Currently Learning(Security+)
 
 - Security Fundamentals
 - Threats & Vulnerabilities
@@ -49,9 +49,9 @@ This repository documents my technical learning journey, including:
 
 🎯 Current Roadmap
 
-CCNA → CompTIA Security+ → Linux → SOC / Blue Team → Security Engineer
+CCNA✅ → CompTIA Security+ → Linux → SOC / Blue Team → Security Engineer
 
-Currently strengthening my networking foundation while building knowledge in cybersecurity and preparing for the next stage of my learning path.
+Currently strengthening on CompTIA Security+ and strengthening my cybersecurity foundation through structured learning and hands-on practice.
 
 🛠️ Skills
 
@@ -64,6 +64,6 @@ Currently strengthening my networking foundation while building knowledge in cyb
 
 🚀 Goal
 
-To build strong practical skills in Networking and Cybersecurity and grow into a Cybersecurity Professional.
+To build strong practical skills in Networking and Cybersecurity and grow into a Security Engineer
 
 «⭐ Learning by doing, one step at a time.»
