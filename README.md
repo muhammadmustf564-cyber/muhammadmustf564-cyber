@@ -49,7 +49,7 @@ This repository documents my technical learning journey, including:
 
 🎯 Current Roadmap
 
-CCNA → CompTIA Security+ → Linux → SOC / Blue Team
+CCNA → CompTIA Security+ → Linux → SOC / Blue Team → Security Engineer
 
 Currently strengthening my networking foundation while building knowledge in cybersecurity and preparing for the next stage of my learning path.
 
