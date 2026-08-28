@@ -26,7 +26,7 @@
 
 ### 🐍 Scripting & Practice
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash" alt="Scripting Icons" />
+  <img src="https://skillicons.dev/icons?i=python,bash,wireshark" alt="Scripting Icons" />
 </p>
 
 ### 🔧 Tools & Environment
