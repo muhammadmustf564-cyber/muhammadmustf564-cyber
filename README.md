@@ -21,7 +21,7 @@
 
 ### 🌐 Networking & Security Foundation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nmap,linux,kali" alt="Networking Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,kali" alt="Networking Icons" />
 </p>
 
 ### 🐍 Scripting & Practice
